@@ -25,6 +25,33 @@
 
 ---
 
+## ⌨️ What I’m Doing
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF0080&width=600&lines=Learning+MERN+Stack;Solving+Data+Structures+%26+Algorithms;Exploring+System+Design)](https://git.io/typing-svg)
+
+---
+
+## 📊 GitHub Analytics  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical&border_radius=10)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🐍 Contribution Graph  
+![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🏗️ Current Focus  
+- 📚 Data Structures & Algorithms  
+- 🌐 MERN Stack Development  
+- ⚡ System Design Fundamentals  
+ite)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
 ## 📊 GitHub Analytics  
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical&border_radius=10)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
