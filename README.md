@@ -38,7 +38,7 @@
 ---
 
 ## 🐍 Contribution Graph  
-![Snake animation](https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Anu8587/Anu8587/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -53,9 +53,9 @@ ite)
 ---
 
 ## 📊 GitHub Analytics  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=radical&border_radius=10)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Anu8587&theme=radical&border_radius=10)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu8587&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu8587&layout=compact&theme=radical)  
 
 ---
 
