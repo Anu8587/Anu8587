@@ -37,8 +37,8 @@
 
 ---
 
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/Anu8587/Anu8587/blob/main/github-contribution-grid-snake.svg)
+## 📈 GitHub Contributions
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=Anu8587&theme=react-dark&hide_border=true)
 
 ---
 
